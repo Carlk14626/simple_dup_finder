@@ -1,6 +1,6 @@
 [project]
 name = "simple-dup-finder"
-version = "0.1.0"
+version = "0.1.1"
 description = "Identify duplicate files by comparing sizes first, then SHA-256 hashes only when needed."
 requires-python = ">=3.10"
 dependencies = []
